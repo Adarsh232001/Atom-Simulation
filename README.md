@@ -6,6 +6,9 @@ Collaborated with [@NithinKumar9](https://github.com/NithinKumar9) <br/>
 Language used:- C <br/>
 Tools used:- MinGw <br/>
 IDE used:- [CodeBlocks](https://www.codeblocks.org/downloads/)<br/>
+
+Download the project and run the Atom_simulation.cbp file.
+
 <p>Atom simulation uses only one window. That is
 Atom simulation (Main window): This window contains all the contents that is
 menu bar and simulation display. This is window used for all the events and
